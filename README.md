@@ -1,4 +1,3 @@
------------------------
 -Cave Hideout Improved-
 -----------------------
 A Neo Classical subterranean home where you can get away from the muties, RADs, and hectic life of the topside world.
