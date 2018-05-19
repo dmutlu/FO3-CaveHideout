@@ -1,0 +1,62 @@
+---------------
+-Home Interior-
+---------------
+Added a bathroom.
+Medicine Cabinet
+Toilet
+Bathtub
+Sink
+Unisex bathroom sign
+Added ceiling lights to the Bar/Common Room.
+
+Changed Mr.Handy’s name to Jarvis. Includes name change in text dialogue.
+Changed hotel bed to a blue velour bed.
+
+Re-adjusted the size of the front entrance pillars.
+Re-adjusted the size and location of the front entrance potted plants.
+Re-adjusted the size and location of lobby rugs.
+
+Fixed the problem where one of the posters in the bedroom was clipping into the wall.
+Fixed the ownership of the decorative prewar clothing so that the player owns them.
+
+Removed the duplicate locker that was placed inside another locker.
+Removed the duplicate television that was placed under the map.
+Removed the museum information podium by the medic station.
+Removed the Vault Bobblehead Quest item from safe.
+Removed Tenpenny Encounter Zone from Cell properties and replaced it with a custom made Encounter Zone.
+
+Full redo of the navmeshes with AI cover. Mr. Jarvis will now float around the hideout unlike before where he remained stationary.
+
+Proper implementation of Room Markers and Portals for optimization.
+
+The Pristine Nuka Cola Machine is now fully functional and had been renamed. The bloody thing no longer eats your Nuka Colas for 30 saves until you look at it and realize all your nuka cola is gone.
+
+Relocated Stove and added a counter equipped with cooking supplies.
+Relocated bedroom floor safe onto the wall located in the secure storage room.
+Relocated lobby desk chair to face the computer terminal.
+Relocated Nuka Fridge and Wine Cabinet to make space for the Bathroom door.
+Relocated Wine Cabinet in bedroom so that the player can no longer get stuck behind it.
+Relocated safe key to increase visibility.
+
+---------------
+-Cave Exterior-
+---------------
+Added light above the exit ladder.
+Added wall rubble in front of cave to sewer entrance.
+Added the corpse of previous owner, Mr.Montague.
+Added passwords for the two terminals.
+Added key to the front door.
+
+Applied custom made Encounter Zone to the cell properties.
+
+Braced the ladder against a pile of rubble.
+Blocked off cave hole with wooden planks.
+Replaced all cave torches with lanterns.
+Replaced home front entrance torch with battery powered light.
+
+-------
+-World-
+-------
+Removed any trace of the original authors unfinished quest.
+
+Remade the entrance by removing the bolder door and replacing it with an actual door which is placed on a billboard.
